@@ -1,6 +1,7 @@
 # Proyecto plataforma Zuber
 
-**Descripción:** Este proyecto está orientado a identificar patrones de movilidad, comprender las preferencias de los usuarios y evaluar el impacto de factores externos como el meteorológico y el competitivo en los trayectos del transporte urbano en la ciudad de Chicago.
+Descripción
+ Este proyecto está orientado a identificar patrones de movilidad, comprender las preferencias de los usuarios y evaluar el impacto de factores externos como el meteorológico y el competitivo en los trayectos del transporte urbano en la ciudad de Chicago.
 
 ## Conclusiones Clave
 * La empresa Flash Cab ejerce una posición de dominio absoluto en el sector de transportes tradicionales, acumulando la mayor cuota de mercado en volumen bruto de viajes durante los días de medición masiva.
