@@ -1,6 +1,6 @@
 # Proyecto plataforma Zuber
 
-Descripción
+## Descripción
  Este proyecto está orientado a identificar patrones de movilidad, comprender las preferencias de los usuarios y evaluar el impacto de factores externos como el meteorológico y el competitivo en los trayectos del transporte urbano en la ciudad de Chicago.
 
 ## Conclusiones Clave
